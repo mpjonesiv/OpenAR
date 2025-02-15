@@ -1,8 +1,6 @@
 /* 
-
 	project: Conceptnova (free CSS template)
 	author: luka cvrk (www.solucija.com)
-
 */
 
 *{ margin: 0; padding: 0; }*
@@ -49,9 +47,6 @@ img { border: 0; }
 
 #right { width: 220px; float: right; }
 	#info { border: 1px solid #ccc; padding: 7px; font-size: .9em; background: #f4f4f4; }
-	#searchform { background: url(../images/searchform.gif) no-repeat; padding: 8px 4px 10px 4px; height: 27px; font: bold 0.9em Arial, Sans-Serif; margin: 0 0 20px; }
-		#searchform p { padding: 0; margin: 0; }
-		input.search { width: 127px; border: none; background: url(../images/input.gif) no-repeat; padding: 7px; margin: 0 4px 0 5px; }
-		input.submit { width: 53px; height: 29px; border: none; background: #FFF url(../images/submit.gif) no-repeat; font: bold 1.2em Arial, Sans-Serif; padding: 0px; color: #FFF; }
+	#info2 { border: 1px solid #ccc; padding: 7px; font-size: .9em; background: #f4f4f4; }
 
 #footer { clear: both; padding: 10px;  margin: 10px 0 0 0; border-top: 1px solid #ccc; line-height: 2em; }
